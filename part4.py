@@ -1,14 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.
-# Any code taken from other sources is referenced within my code solution.
-
-# Student ID : w1839502
-
-# Date: 2021/4/19
-
-
-
-
-
 print("Welcome to your life decider")
 print("***********")
 
